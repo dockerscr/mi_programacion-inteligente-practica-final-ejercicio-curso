@@ -13,18 +13,18 @@ When asked for creating a JSON issue, follow these steps:
   - Draft the issue title from the specification or context; if unclear, ask.
   - Identify the repo remote URL from Context. 
   - If not, identify it by using local git commands to get the remote URL.
-    - Save the remote URL at [AGENTS.md](AGENTS.md) for later use.
+    - Save the remote URL in the root `AGENTS.md` file for later use.
    
 2. **Create the JSON issue**:
   - Create the issue in the specs folder naming it `<id>.issue.json`.
   - Set the issue title and body based on the provided specification or context.
   - Add a label `bug` or `enhancement` based on the content.
-  - Save the created issue URL for reference and the ID for tracking.
+  - Save the issue file path for reference and the ID for tracking.
 
 3. **Double-link to specification (if applicable)**:
   - If the issue is created based on a specification file:
-    - Add the created issue URL back to the file for traceability.
-    - Add the JSON issue file url to the created issue body for context. 
+    - Add the issue file path back to the specification for traceability.
+    - Add the specification file path to the issue body for context.
 
 ## Example
 

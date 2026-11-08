@@ -23,7 +23,7 @@ description: >
 
 ### Example reference
 ````markdown
-- **Specification**: [feat-launch-scheduling.spec.md](https://github.com/AlbertoBasalo/astro-bookings-express/blob/main/specs/feat-launch-scheduling.spec.md)
-- **PRD**: [FR2 Launch Scheduling](https://github.com/AlbertoBasalo/astro-bookings-express/blob/main/PRD.md#fr2-launch-scheduling)
-- **Branch**: [feat/launch-scheduling](https://github.com/AlbertoBasalo/astro-bookings-express/tree/feat/launch-scheduling)
+- **Specification**: `specs/feat-launch-scheduling.spec.md`
+- **PRD**: `PRD.md` (FR2 Launch Scheduling)
+- **Branch**: `feat/launch-scheduling`
 ````

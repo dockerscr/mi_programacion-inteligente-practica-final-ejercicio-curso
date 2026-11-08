@@ -16,7 +16,7 @@ The goal is keep the default branch up to date with the latest changes.
 
 ## Context
 
-Run the script at [merge.sh](./merge.sh) to perform the merge operation.
+Run the script at [merge.sh](./merge.sh) with Git Bash, or [merge.ps1](./merge.ps1) with PowerShell, to perform the merge operation.
 
 ## Output
 
